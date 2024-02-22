@@ -1,0 +1,7 @@
+[ nvm use <version> ] -> para utilizar uma versão já instalada
+[ nvm list ] -> retorna a lista de versoes disponiveis para utilizacao por meio deo comando nvm use 
+[ nvm install --lts ] -> instala a versão LTS (Long Term Support - vesão recomendada) mais recente do site do NODE
+[ nvm install <version> ] -> instala a versão do node especificada 
+[ nvm alias default <version> ] -> define a versão default. Sempre que um terminal novo for aberto será utilizada está versão
+[ nvm use ] -> o nvm ira procurar no diretorio corrente um arquivo chamado nvmrc que contém a versão que deve ser utilizadanvm 
+[ arquivo .nvmrc] contém a versão a ser utilizada em um projeto 
